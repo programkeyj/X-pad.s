@@ -78,3 +78,4 @@ text.config(yscrollcommand=scroll.set)
 text.pack()
 
 root.mainloop()
+
