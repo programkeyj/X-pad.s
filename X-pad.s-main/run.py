@@ -1,0 +1,4 @@
+newfileName = "";
+openfileName = "";
+data = "";
+input = "";
