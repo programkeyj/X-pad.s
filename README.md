@@ -1,6 +1,7 @@
 # X-pad_s
-by keyj(programkeyj)
-# pleas if you download this app dowload all whithout branch: 0.8;
-# end after that start main.py
-# ;</br>
-i want from x_pad make IDE for python
+by K.J_Projs(programkeyj, Nikolya057Ukr)
+# Wait for release, it will be after war beetwen Russian and Ukrain
+<br/>(or earlier if i get home for my laptop)
+#Ждите релиза новой версии, она была почти закончена,<br/>
+#но меня прервала война между Украиной и Россией<br/>
+(или раньше если я доберусь до ноута с данными(но это вряд-ли))))
